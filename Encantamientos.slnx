@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Encantamientos/Encantamientos.vcxproj" Id="ec100e29-2b55-49c6-8ad4-2c99e67e1650" />
+</Solution>
